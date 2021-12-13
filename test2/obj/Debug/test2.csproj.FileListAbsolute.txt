@@ -1,0 +1,32 @@
+C:\Die or die\практика\test2\bin\Debug\test2.exe.config
+C:\Die or die\практика\test2\bin\Debug\test2.exe
+C:\Die or die\практика\test2\bin\Debug\test2.pdb
+C:\Die or die\практика\test2\obj\Debug\test2.csprojAssemblyReference.cache
+C:\Die or die\практика\test2\obj\Debug\test2.Form1.resources
+C:\Die or die\практика\test2\obj\Debug\test2.Form2.resources
+C:\Die or die\практика\test2\obj\Debug\test2.Properties.Resources.resources
+C:\Die or die\практика\test2\obj\Debug\test2.csproj.GenerateResource.cache
+C:\Die or die\практика\test2\obj\Debug\test2.csproj.CoreCompileInputs.cache
+C:\Die or die\практика\test2\obj\Debug\test2.exe
+C:\Die or die\практика\test2\obj\Debug\test2.pdb
+C:\Die or die\практика\test2\obj\Debug\test2.Form3.resources
+C:\практика\практика\test2\bin\Debug\test2.exe.config
+C:\практика\практика\test2\bin\Debug\test2.exe
+C:\практика\практика\test2\bin\Debug\test2.pdb
+C:\практика\практика\test2\obj\Debug\test2.csprojAssemblyReference.cache
+C:\практика\практика\test2\obj\Debug\test2.Form1.resources
+C:\практика\практика\test2\obj\Debug\test2.Form2.resources
+C:\практика\практика\test2\obj\Debug\test2.Form3.resources
+C:\практика\практика\test2\obj\Debug\test2.Properties.Resources.resources
+C:\практика\практика\test2\obj\Debug\test2.csproj.GenerateResource.cache
+C:\практика\практика\test2\obj\Debug\test2.csproj.CoreCompileInputs.cache
+C:\практика\практика\test2\obj\Debug\test2.exe
+C:\практика\практика\test2\obj\Debug\test2.pdb
+C:\практика\практика\test2\obj\Debug\test2.Form4.resources
+C:\практика\практика\test2\obj\Debug\test2.Form6.resources
+C:\практика\практика\test2\obj\Debug\test2.Form7.resources
+C:\практика\практика\test2\obj\Debug\test2.Form8.resources
+C:\Die or die\практика\test2\obj\Debug\test2.Form4.resources
+C:\Die or die\практика\test2\obj\Debug\test2.Form6.resources
+C:\Die or die\практика\test2\obj\Debug\test2.Form7.resources
+C:\Die or die\практика\test2\obj\Debug\test2.Form8.resources
